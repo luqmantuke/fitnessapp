@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+
+const Color whiteBackgroundColor = Color.fromRGBO(241, 250, 238, 1);
+const Color whiteTwo = Color.fromRGBO(255, 255, 255, 0.7);
+const Color greenColor = Color.fromRGBO(42, 157, 143, 1);
+const Color redColor = Color.fromRGBO(231, 111, 81, 1);
+const Color blueColor = Color.fromRGBO(38, 70, 83, 1);
+const Color blueColor02 = Color.fromRGBO(38, 70, 83, 0.9);
+const Color blueColor03 = Color.fromRGBO(29, 50, 87, 1);
+const Color blueColor04 = Color.fromRGBO(29, 53, 87, 1);
+const Color greyColor = Color.fromRGBO(217, 217, 217, 1);
+const Color blueshore = Color(0xff70e1f5);
+const Color yellowshore = Color(0xffffd194);
+const Color orangestarfall = Color(0xffF0C27B);
+const Color purplestarfall = Color(0xff4B1248);
+const Color shinewinter = Color(0xffE6DADA);
+const Color bluewinter = Color(0xff274046);
+const Color purpleforever = Color(0xff5D4157);
+const Color blueforever = Color(0xffA8CABA);
+const Color purpleBackgroundColor = Color(0xff252942);
+const Color purpleColor2 = Color(0xff252942);
+const Color purpleColor3 = Color(0xff272640);
+const Color purpleColor4 = Color(0xff312244);
+const Color greyColor02 = Color.fromRGBO(255, 240, 238, 0.8);
+const Color blueuk = Color(0xff20548e);
+const Color blackColor = Colors.black;
